@@ -3,3 +3,5 @@
 
 IVE
 Yujin
+Gaeul
+Rei
